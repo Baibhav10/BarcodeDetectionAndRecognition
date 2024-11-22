@@ -1,0 +1,5 @@
+names:
+- barcode
+nc: 1
+train: c:/Users/MSI/Desktop/Uni/Year3/Semester 2/Machine Perception/Assignment/test/data/task1/Training
+val: c:/Users/MSI/Desktop/Uni/Year3/Semester 2/Machine Perception/Assignment/test/data/task1/Validation

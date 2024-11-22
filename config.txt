@@ -1,0 +1,27 @@
+#Config.txt 
+# Student Information
+Surname: Shrestha
+GivenNames: Baibhav
+Student ID: 20411721
+
+#Paths for input and output for task1
+task1_output: ./output/task1 
+yaml_path: ./data/task1/barcode_dataset.yaml
+task1_model_path: ./data/task1/best.pt
+
+#Paths for input and output for task2
+task2_output: ./output/task2
+
+#Paths for input, output and model for task3
+task3_output: ./output/task3
+task3_model_path: ./data/task3/trained_model.pth
+
+#Paths for input, output and model for task4
+task1_final_output_dir: ./data/task4/task1/final_images
+task1_cropped_output_dir: ./output/task1
+task1_output_bbox_dir: ./data/task4/task1
+task2_output_dir: ./data/task4/task1
+task3_output_dir: ./data/task4/task3
+task4_output: ./output/task4
+
+

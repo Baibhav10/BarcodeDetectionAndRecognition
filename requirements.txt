@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+opencv-python
+opencv-contrib-python
+numpy
+scipy
+scikit-learn
+scikit-image
+tensorflow
+matplotlib
+ultralytics
+pillow
+PyYAML
